@@ -1,0 +1,210 @@
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.31sample/s]
+Completed k=1, metric=euclidean. Processing time: 122.4226 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.84sample/s]
+Completed k=1, metric=manhattan. Processing time: 123.2005 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.64sample/s]
+Processing k values:   3%|▎         | 1/30 [06:07<2:57:37, 367.48s/it]
+Completed k=1, metric=cosine. Processing time: 121.8603 seconds
+Predicting: 100%|██████████| 8974/8974 [02:25<00:00, 61.54sample/s]
+Completed k=2, metric=euclidean. Processing time: 145.8222 seconds
+Predicting: 100%|██████████| 8974/8974 [01:59<00:00, 75.26sample/s]
+Completed k=2, metric=manhattan. Processing time: 119.2396 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.94sample/s]
+Processing k values:   7%|▋         | 2/30 [12:33<2:56:41, 378.63s/it]
+Completed k=2, metric=cosine. Processing time: 121.3781 seconds
+Predicting: 100%|██████████| 8974/8974 [02:06<00:00, 71.00sample/s]
+Completed k=3, metric=euclidean. Processing time: 126.3995 seconds
+Predicting: 100%|██████████| 8974/8974 [02:00<00:00, 74.61sample/s]
+Completed k=3, metric=manhattan. Processing time: 120.2753 seconds
+Predicting: 100%|██████████| 8974/8974 [02:00<00:00, 74.68sample/s]
+Processing k values:  10%|█         | 3/30 [18:40<2:47:57, 373.25s/it]
+Completed k=3, metric=cosine. Processing time: 120.1701 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.87sample/s]
+Completed k=4, metric=euclidean. Processing time: 123.1472 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.68sample/s]
+Completed k=4, metric=manhattan. Processing time: 121.8015 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.35sample/s]
+Processing k values:  13%|█▎        | 4/30 [24:48<2:40:43, 370.90s/it]
+Completed k=4, metric=cosine. Processing time: 122.3567 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.92sample/s]
+Completed k=5, metric=euclidean. Processing time: 123.0776 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.85sample/s]
+Completed k=5, metric=manhattan. Processing time: 121.5196 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.77sample/s]
+Processing k values:  17%|█▋        | 5/30 [30:54<2:33:50, 369.23s/it]
+Completed k=5, metric=cosine. Processing time: 121.6582 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.71sample/s]
+Completed k=6, metric=euclidean. Processing time: 121.7544 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.77sample/s]
+Completed k=6, metric=manhattan. Processing time: 121.6470 seconds
+Predicting: 100%|██████████| 8974/8974 [02:00<00:00, 74.63sample/s]
+Processing k values:  20%|██        | 6/30 [36:57<2:26:55, 367.33s/it]
+Completed k=6, metric=cosine. Processing time: 120.2436 seconds
+Predicting: 100%|██████████| 8974/8974 [02:00<00:00, 74.34sample/s]
+Completed k=7, metric=euclidean. Processing time: 120.7242 seconds
+Predicting: 100%|██████████| 8974/8974 [01:59<00:00, 74.85sample/s]
+Completed k=7, metric=manhattan. Processing time: 119.8904 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.58sample/s]
+Processing k values:  23%|██▎       | 7/30 [43:00<2:20:12, 365.78s/it]
+Completed k=7, metric=cosine. Processing time: 121.9592 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.48sample/s]
+Completed k=8, metric=euclidean. Processing time: 122.1343 seconds
+Predicting: 100%|██████████| 8974/8974 [01:59<00:00, 74.86sample/s]
+Completed k=8, metric=manhattan. Processing time: 119.8889 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.10sample/s]
+Processing k values:  27%|██▋       | 8/30 [49:05<2:14:00, 365.46s/it]
+Completed k=8, metric=cosine. Processing time: 122.7719 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.01sample/s]
+Completed k=9, metric=euclidean. Processing time: 122.9190 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.92sample/s]
+Completed k=9, metric=manhattan. Processing time: 121.4137 seconds
+Predicting: 100%|██████████| 8974/8974 [02:00<00:00, 74.47sample/s]
+Processing k values:  30%|███       | 9/30 [55:10<2:07:50, 365.27s/it]
+Completed k=9, metric=cosine. Processing time: 120.5147 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.99sample/s]
+Completed k=10, metric=euclidean. Processing time: 121.2843 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.43sample/s]
+Completed k=10, metric=manhattan. Processing time: 122.2097 seconds
+Predicting: 100%|██████████| 8974/8974 [02:00<00:00, 74.34sample/s]
+Processing k values:  33%|███▎      | 10/30 [1:01:14<2:01:38, 364.95s/it]
+Completed k=10, metric=cosine. Processing time: 120.7245 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.47sample/s]
+Completed k=11, metric=euclidean. Processing time: 122.1468 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.62sample/s]
+Completed k=11, metric=manhattan. Processing time: 123.5830 seconds
+Predicting: 100%|██████████| 8974/8974 [02:05<00:00, 71.37sample/s]
+Processing k values:  37%|███▋      | 11/30 [1:07:25<1:56:11, 366.94s/it]
+Completed k=11, metric=cosine. Processing time: 125.7401 seconds
+Predicting: 100%|██████████| 8974/8974 [02:04<00:00, 71.96sample/s]
+Completed k=12, metric=euclidean. Processing time: 124.7142 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.68sample/s]
+Completed k=12, metric=manhattan. Processing time: 121.8059 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.66sample/s]
+Processing k values:  40%|████      | 12/30 [1:13:34<1:50:12, 367.37s/it]
+Completed k=12, metric=cosine. Processing time: 121.8357 seconds
+Predicting: 100%|██████████| 8974/8974 [02:00<00:00, 74.19sample/s]
+Completed k=13, metric=euclidean. Processing time: 120.9616 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.24sample/s]
+Completed k=13, metric=manhattan. Processing time: 122.5250 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.36sample/s]
+Processing k values:  43%|████▎     | 13/30 [1:19:40<1:43:57, 366.90s/it]
+Completed k=13, metric=cosine. Processing time: 122.3329 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.89sample/s]
+Completed k=14, metric=euclidean. Processing time: 121.4580 seconds
+Predicting: 100%|██████████| 8974/8974 [02:00<00:00, 74.53sample/s]
+Completed k=14, metric=manhattan. Processing time: 120.4137 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.26sample/s]
+Processing k values:  47%|████▋     | 14/30 [1:25:44<1:37:38, 366.14s/it]
+Completed k=14, metric=cosine. Processing time: 122.5005 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.46sample/s]
+Completed k=15, metric=euclidean. Processing time: 122.1679 seconds
+Predicting: 100%|██████████| 8974/8974 [02:04<00:00, 72.27sample/s]
+Completed k=15, metric=manhattan. Processing time: 124.1751 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.96sample/s]
+Processing k values:  50%|█████     | 15/30 [1:31:53<1:31:46, 367.11s/it]
+Completed k=15, metric=cosine. Processing time: 123.0106 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.08sample/s]
+Completed k=16, metric=euclidean. Processing time: 122.8008 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.38sample/s]
+Completed k=16, metric=manhattan. Processing time: 123.9802 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.95sample/s]
+Processing k values:  53%|█████▎    | 16/30 [1:38:03<1:25:50, 367.92s/it]
+Completed k=16, metric=cosine. Processing time: 123.0115 seconds
+Predicting: 100%|██████████| 8974/8974 [02:04<00:00, 72.06sample/s]
+Completed k=17, metric=euclidean. Processing time: 124.5469 seconds
+Predicting: 100%|██████████| 8974/8974 [02:08<00:00, 69.73sample/s]
+Completed k=17, metric=manhattan. Processing time: 128.6956 seconds
+Predicting: 100%|██████████| 8974/8974 [02:07<00:00, 70.65sample/s]
+Processing k values:  57%|█████▋    | 17/30 [1:44:23<1:20:31, 371.63s/it]
+Completed k=17, metric=cosine. Processing time: 127.0233 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.53sample/s]
+Completed k=18, metric=euclidean. Processing time: 123.7364 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.07sample/s]
+Completed k=18, metric=manhattan. Processing time: 122.8250 seconds
+Predicting: 100%|██████████| 8974/8974 [02:04<00:00, 71.86sample/s]
+Processing k values:  60%|██████    | 18/30 [1:50:35<1:14:18, 371.58s/it]
+Completed k=18, metric=cosine. Processing time: 124.8899 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.29sample/s]
+Completed k=19, metric=euclidean. Processing time: 122.4487 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.60sample/s]
+Completed k=19, metric=manhattan. Processing time: 121.9324 seconds
+Predicting: 100%|██████████| 8974/8974 [02:38<00:00, 56.78sample/s]
+Processing k values:  63%|██████▎   | 19/30 [1:57:17<1:09:49, 380.85s/it]
+Completed k=19, metric=cosine. Processing time: 158.0653 seconds
+Predicting: 100%|██████████| 8974/8974 [02:30<00:00, 59.79sample/s]
+Completed k=20, metric=euclidean. Processing time: 150.1077 seconds
+Predicting: 100%|██████████| 8974/8974 [03:05<00:00, 48.39sample/s]
+Completed k=20, metric=manhattan. Processing time: 185.4774 seconds
+Predicting: 100%|██████████| 8974/8974 [02:56<00:00, 50.92sample/s]
+Processing k values:  67%|██████▋   | 20/30 [2:05:49<1:10:01, 420.18s/it]
+Completed k=20, metric=cosine. Processing time: 176.2565 seconds
+Predicting: 100%|██████████| 8974/8974 [02:22<00:00, 63.12sample/s]
+Completed k=21, metric=euclidean. Processing time: 142.1779 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.86sample/s]
+Completed k=21, metric=manhattan. Processing time: 123.1731 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.85sample/s]
+Processing k values:  70%|███████   | 21/30 [2:12:18<1:01:36, 410.68s/it]
+Completed k=21, metric=cosine. Processing time: 123.1973 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.49sample/s]
+Completed k=22, metric=euclidean. Processing time: 122.1131 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.21sample/s]
+Completed k=22, metric=manhattan. Processing time: 122.5870 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.87sample/s]
+Processing k values:  73%|███████▎  | 22/30 [2:18:25<53:02, 397.83s/it]  
+Completed k=22, metric=cosine. Processing time: 123.1499 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 72.99sample/s]
+Completed k=23, metric=euclidean. Processing time: 122.9524 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.76sample/s]
+Completed k=23, metric=manhattan. Processing time: 123.3348 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.81sample/s]
+Processing k values:  77%|███████▋  | 23/30 [2:24:35<45:25, 389.34s/it]
+Completed k=23, metric=cosine. Processing time: 123.2628 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.07sample/s]
+Completed k=24, metric=euclidean. Processing time: 122.8183 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.69sample/s]
+Completed k=24, metric=manhattan. Processing time: 123.4668 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.08sample/s]
+Processing k values:  80%|████████  | 24/30 [2:30:44<38:19, 383.27s/it]
+Completed k=24, metric=cosine. Processing time: 122.8062 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.39sample/s]
+Completed k=25, metric=euclidean. Processing time: 123.9674 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.65sample/s]
+Completed k=25, metric=manhattan. Processing time: 123.5293 seconds
+Predicting: 100%|██████████| 8974/8974 [02:04<00:00, 72.33sample/s]
+Processing k values:  83%|████████▎ | 25/30 [2:36:56<31:38, 379.76s/it]
+Completed k=25, metric=cosine. Processing time: 124.0673 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.43sample/s]
+Completed k=26, metric=euclidean. Processing time: 123.8971 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.84sample/s]
+Completed k=26, metric=manhattan. Processing time: 123.2035 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.03sample/s]
+Processing k values:  87%|████████▋ | 26/30 [2:43:06<25:07, 376.82s/it]
+Completed k=26, metric=cosine. Processing time: 122.8861 seconds
+Predicting: 100%|██████████| 8974/8974 [01:59<00:00, 74.96sample/s]
+Completed k=27, metric=euclidean. Processing time: 119.7279 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.80sample/s]
+Completed k=27, metric=manhattan. Processing time: 121.6002 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.79sample/s]
+Processing k values:  90%|█████████ | 27/30 [2:49:09<18:37, 372.66s/it]
+Completed k=27, metric=cosine. Processing time: 121.6273 seconds
+Predicting: 100%|██████████| 8974/8974 [02:01<00:00, 73.57sample/s]
+Completed k=28, metric=euclidean. Processing time: 121.9863 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.35sample/s]
+Completed k=28, metric=manhattan. Processing time: 122.3457 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.64sample/s]
+Processing k values:  93%|█████████▎| 28/30 [2:55:17<12:22, 371.23s/it]
+Completed k=28, metric=cosine. Processing time: 123.5387 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.39sample/s]
+Completed k=29, metric=euclidean. Processing time: 122.2883 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.15sample/s]
+Completed k=29, metric=manhattan. Processing time: 122.6846 seconds
+Predicting: 100%|██████████| 8974/8974 [02:09<00:00, 69.46sample/s]
+Processing k values:  97%|█████████▋| 29/30 [3:01:31<06:12, 372.11s/it]
+Completed k=29, metric=cosine. Processing time: 129.2021 seconds
+Predicting: 100%|██████████| 8974/8974 [02:02<00:00, 73.36sample/s]
+Completed k=30, metric=euclidean. Processing time: 122.3387 seconds
+Predicting: 100%|██████████| 8974/8974 [02:15<00:00, 65.99sample/s]
+Completed k=30, metric=manhattan. Processing time: 135.9922 seconds
+Predicting: 100%|██████████| 8974/8974 [02:03<00:00, 72.48sample/s]
+Processing k values: 100%|██████████| 30/30 [3:07:53<00:00, 375.78s/it]
+Completed k=30, metric=cosine. Processing time: 123.8236 seconds

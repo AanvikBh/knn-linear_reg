@@ -1,0 +1,247 @@
+x----------------------x-----------------------x---------------------x
+
+Polynomial Degree: 1
+Iteration Number: 27
+MSE: 0.1753
+Variance: 0.4579
+Standard Deviation: 0.6767
+Weights:
+  0.8604
+  1.2970
+
+Polynomial Degree: 2
+Iteration Number: 25
+MSE: 0.0816
+Variance: 0.5913
+Standard Deviation: 0.7690
+Weights:
+  0.4534
+  1.5384
+  1.1876
+
+Polynomial Degree: 3
+Iteration Number: 99
+MSE: 0.0550
+Variance: 0.7625
+Standard Deviation: 0.8732
+Weights:
+  0.5173
+  0.8450
+  1.3933
+  1.6414
+
+Polynomial Degree: 4
+Iteration Number: 99
+MSE: 0.1236
+Variance: 0.8076
+Standard Deviation: 0.8987
+Weights:
+  0.6545
+  1.8352
+  0.9115
+  -0.0764
+  -0.2050
+
+Polynomial Degree: 5
+Iteration Number: 99
+MSE: 0.1568
+Variance: 0.7889
+Standard Deviation: 0.8882
+Weights:
+  0.8345
+  0.9320
+  -0.4724
+  2.1707
+  1.4366
+  -0.7664
+
+x----------------------x-----------------------x---------------------x
+
+Polynomial Degree: 1
+Iteration Number: 99
+MSE: 0.5438
+Variance: 0.7417
+Standard Deviation: 0.8612
+Weights:
+  0.9044
+  1.5373
+
+Polynomial Degree: 2
+Iteration Number: 99
+MSE: 0.4292
+Variance: 0.7128
+Standard Deviation: 0.8443
+Weights:
+  0.7553
+  1.6074
+  0.4904
+
+Polynomial Degree: 1
+Iteration Number: 199
+MSE: 0.5078
+Variance: 0.7210
+Standard Deviation: 0.8491
+Weights:
+  0.9057
+  1.5310
+
+Polynomial Degree: 2
+Iteration Number: 113
+MSE: 0.4136
+Variance: 0.8665
+Standard Deviation: 0.9308
+Weights:
+  0.5715
+  1.7252
+  1.0264
+
+Polynomial Degree: 3
+Iteration Number: 199
+MSE: 0.1891
+Variance: 1.0880
+Standard Deviation: 1.0431
+Weights:
+  0.4571
+  0.8623
+  1.5812
+  1.5947
+
+Polynomial Degree: 4
+Iteration Number: 199
+MSE: 0.2561
+Variance: 1.0150
+Standard Deviation: 1.0075
+Weights:
+  0.5136
+  1.1936
+  1.2631
+  1.0456
+  0.1351
+
+Polynomial Degree: 5
+Iteration Number: 199
+MSE: 0.1707
+Variance: 1.1041
+Standard Deviation: 1.0507
+Weights:
+  0.5135
+  1.2465
+  1.1084
+  0.1461
+  0.5747
+  1.2255
+
+--------------
+
+Polynomial Degree: 1
+Iteration Number: 18
+MSE: 0.2300
+Variance: 0.3246
+Standard Deviation: 0.5697
+Weights:
+  0.8385
+  1.1603
+
+Polynomial Degree: 2
+Iteration Number: 149
+MSE: 0.1409
+Variance: 0.5735
+Standard Deviation: 0.7573
+Weights:
+  0.6448
+  1.7052
+  0.8894
+
+Polynomial Degree: 3
+Iteration Number: 149
+MSE: 0.0633
+Variance: 0.5352
+Standard Deviation: 0.7316
+Weights:
+  0.5392
+  0.9809
+  1.3654
+  1.3504
+
+Polynomial Degree: 4
+Iteration Number: 149
+MSE: 0.0596
+Variance: 0.5611
+Standard Deviation: 0.7491
+Weights:
+  0.5702
+  0.9537
+  0.6900
+  1.5767
+  0.9824
+
+Polynomial Degree: 5
+Iteration Number: 149
+MSE: 0.0233
+Variance: 0.5376
+Standard Deviation: 0.7332
+Weights:
+  0.5198
+  0.7190
+  0.5990
+  0.7821
+  1.6822
+  1.7694
+
+------------------
+
+Polynomial Degree: 1
+Iteration Number: 11
+MSE: 0.1743
+Variance: 0.7414
+Standard Deviation: 0.8610
+Weights:
+  0.8320
+  1.5121
+
+Polynomial Degree: 2
+Iteration Number: 31
+MSE: 0.0674
+Variance: 0.6036
+Standard Deviation: 0.7769
+Weights:
+  0.5985
+  1.4518
+  0.7870
+
+Polynomial Degree: 3
+Iteration Number: 149
+MSE: 0.0504
+Variance: 0.9342
+Standard Deviation: 0.9666
+Weights:
+  0.4666
+  0.9339
+  1.5495
+  1.6055
+
+Polynomial Degree: 4
+Iteration Number: 149
+MSE: 0.0533
+Variance: 0.9231
+Standard Deviation: 0.9608
+Weights:
+  0.5460
+  0.7468
+  0.8125
+  2.0065
+  0.8710
+
+Polynomial Degree: 5
+Iteration Number: 25
+MSE: 0.0340
+Variance: 0.6619
+Standard Deviation: 0.8136
+Weights:
+  0.4808
+  0.6705
+  1.3831
+  0.6243
+  0.2504
+  1.4040
+
